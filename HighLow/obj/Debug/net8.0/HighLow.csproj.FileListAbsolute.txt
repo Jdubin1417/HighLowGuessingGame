@@ -1,0 +1,14 @@
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\bin\Debug\net8.0\HighLow.exe
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\bin\Debug\net8.0\HighLow.deps.json
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\bin\Debug\net8.0\HighLow.runtimeconfig.json
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\bin\Debug\net8.0\HighLow.dll
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\bin\Debug\net8.0\HighLow.pdb
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\HighLow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\HighLow.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\HighLow.AssemblyInfo.cs
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\HighLow.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\HighLow.dll
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\refint\HighLow.dll
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\HighLow.pdb
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\HighLow.genruntimeconfig.cache
+C:\Users\justi\OneDrive - East Tennessee State University\Semester_Spring\Spring 2024\Software Engineering 1 CSCI-4250-001\Session 3 - Problem Solving\HighLow\obj\Debug\net8.0\ref\HighLow.dll
