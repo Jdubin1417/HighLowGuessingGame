@@ -1,5 +1,6 @@
 # High-Low Guessing Game
 This is a simple console-based High-Low guessing game written in C#. The game generates a random number between 1 and 10, and the player has 5 attempts to guess the number.
+
 NOTE: ChatGPT and Github CoPilot both were used to assist in the making of this program. 
 
 ## How to Play
